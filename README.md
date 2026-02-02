@@ -6,9 +6,13 @@
 ## 🧑‍💻 About Me
 
 🎓 **Degrees:**: Master’s Degree in Computer Science & Software Engineering
+
 📱 **Role**: Senior Mobile Developer / Technical Lead
+
 🧠 **Experience**: Android & Flutter — from early-stage products to high-traffic production apps
+
 🌍 **Location**: Nancy, France
+
 🛠️ **Main Stack:** Flutter • Dart • Riverpod • Provider • Android • Kotlin • REST APIs • Firebase & more 
 
 ### 🧩 Currently Focus Areas
