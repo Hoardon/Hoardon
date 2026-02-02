@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **Degrees:**: Master’s Degree in Computer Science & Software Engineering
+🎓 **Degrees:** Master’s Degree in Computer Science & Software Engineering
 
 📱 **Role**: Senior Mobile Developer / Technical Lead
 
