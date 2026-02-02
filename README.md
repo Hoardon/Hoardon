@@ -25,7 +25,7 @@
 
 ## 🌍 Real-World Impact
 
-###🏦 Large-Scale Production Applications
+### 🏦 Large-Scale Production Applications
 
 I work on a **major French online banking application**, serving **millions of users**.
 Context & challenges:
@@ -42,7 +42,7 @@ Key responsibilities:
 
 This experience reinforced a pragmatic, quality-first approach to mobile development.
 
-###🚀 Startup & Early-Stage Product Experience
+### 🚀 Startup & Early-Stage Product Experience
 
 I also have strong experience in **early-stage product development**, where I’ve been deeply involved in:
 - Designing mobile products from the ground up  
