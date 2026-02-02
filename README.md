@@ -69,8 +69,8 @@ This combination of **startup agility** and **enterprise-scale rigor** allows me
 ## 💡 Fun Facts (The Human Side)
  
 🐑 Big fan of calm, cozy things (yes, even sheep 🐑)  
-🧠 Hypersensitive — which turned into a real strength for UX, teamwork, and code quality
-🎨 I paint miniature figurines — patience, precision, and attention to detail are kind of my thing 
+🧠 Hypersensitive — which turned into a real strength for UX, teamwork, and code quality  
+🎨 I paint miniature figurines — patience, precision, and attention to detail are kind of my thing  
 🎲 Role-playing games & board games enthusiast — systems, rules, balance, and long-term strategy fascinate me  
 🎸 Metal music lover — concerts and festivals fuel creativity, energy, and resilience  
 ☕ Coffee helps, but a clean work helps more  
@@ -78,6 +78,10 @@ This combination of **startup agility** and **enterprise-scale rigor** allows me
 ---
 
 ## 🤝 Let’s Connect
+
+💼 Contact me on [Linkedin](https://www.linkedin.com/in/valentin-laurent-54v1337l42)
+
+📧 Send me an Email: valentin.laurent.dev@gmail.com
 
 Open to collaborations, side projects, and meaningful technical discussions.
 
