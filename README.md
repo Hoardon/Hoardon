@@ -36,6 +36,7 @@ Context & challenges:
 Key responsibilities:
 - Developing and maintaining critical mobile features
 - Ensuring performance and UI stability at scale
+- Leading Android and Flutter migrations
 - Collaborating closely with backend, QA, and product teams
 - Improving code quality through architecture, testing, and reviews
 - Contributing to technical decisions with long-term impact
