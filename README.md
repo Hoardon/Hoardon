@@ -53,6 +53,18 @@ This combination of **startup agility** and **enterprise-scale rigor** allows me
 
 ---
 
+## 🛠️ Technical Expertise
+
+- Mobile: Flutter • Android (Kotlin/Java)• iOS (swift)  
+- Flutter State Management: Riverpod • Provider • Bloc • GetX
+- Architecture: MVVM • Clean Architecture • Modular design  
+- Backend & Data: REST APIs • Firebase • NoSQL • SQLite  
+- CI/CD: GitLab CI • Jenkins • Fastlane  
+- Workflow: Git • Agile / Scrum • Code reviews • Mentoring
+- 🍏 MacOS, 🐧 Linux, 🪟 Windows
+
+---
+
 ## ❤️ Things I Care About
 
 ✨ Code that’s readable six months later  
