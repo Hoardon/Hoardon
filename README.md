@@ -68,7 +68,7 @@ This combination of **startup agility** and **enterprise-scale rigor** allows me
 
 ## 💡 Fun Facts (The Human Side)
  
-🐑 Big fan of calm, cozy things (yes, even sheep 🐑)  
+🐑 Big fan of calm, cozy things 🐑  
 🧠 Hypersensitive — which turned into a real strength for UX, teamwork, and code quality  
 🎨 I paint miniature figurines — patience, precision, and attention to detail are kind of my thing  
 🎲 Role-playing games & board games enthusiast — systems, rules, balance, and long-term strategy fascinate me  
