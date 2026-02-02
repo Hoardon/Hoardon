@@ -13,10 +13,10 @@
 
 ### 🧩 Currently Focus Areas
 
-📦 BloC for state management mastery
+📦 BloC for state management mastery  
 ⚙️ CI/CD pipelines to automate build, test & deploy  
-🚦 Performance optimization on complex UI flows
-🧪 Improving test coverage and release confidence
+🚦 Performance optimization on complex UI flows  
+🧪 Improving test coverage and release confidence  
 
 ---
 
