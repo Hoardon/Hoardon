@@ -1,4 +1,4 @@
-# 🚀 Hey, I'm a Flutter Developer Who Loves Turning Ideas into Apps
+# 🚀 Hey, I'm a Mobile Developer Who Loves Turning Ideas into Apps
 *Building reliable, scalable mobile applications with real-world impact.*
 
 ---
