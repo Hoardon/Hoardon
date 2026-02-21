@@ -24,7 +24,7 @@
 
 ### 🏦 Large-Scale Production Applications
 
-I work on a **major French online banking application**, serving **millions of users**.
+I worked on a **major French online banking application**, serving **millions of users**.
 Context & challenges:
 - High traffic and strict performance requirements
 - Strong constraints on security, stability, and compliance
