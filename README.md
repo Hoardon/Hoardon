@@ -9,11 +9,10 @@
 📱 **Role**: Senior Mobile Developer / Technical Lead  
 🧠 **Experience**: Android & Flutter — from early-stage products to high-traffic production apps  
 🌍 **Location**: Nancy, France  
-🛠️ **Main Stack:** Flutter • Dart • Riverpod • Provider • Android • Kotlin • REST APIs • Firebase & more  
+🛠️ **Main Stack:** Flutter • Dart • Riverpod • Bloc • Provider • Android • Kotlin • REST APIs • Firebase & more  
 
 ### 🧩 Currently Focus Areas
 
-📦 BloC for state management mastery  
 ⚙️ CI/CD pipelines to automate build, test & deploy  
 🚦 Performance optimization on complex UI flows  
 🧪 Improving test coverage and release confidence  
